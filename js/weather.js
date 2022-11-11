@@ -14,7 +14,7 @@ fetch(url)
 .then( data => {
 
   // Check-check: Is data good? 
-  console.log( data );
+  // console.log( data );
   
   // Get Container for Weather   
   const weatherContainer = document.querySelector('.weather');
